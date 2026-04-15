@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 338066b377724584f85558d76ad0f093, type: 3}
+  m_Name: MagicTower_LvL_03
+  m_EditorClassIdentifier: 
+  m_GoldCost: 60
+  m_TowerSprite: {fileID: 21300000, guid: 298636722737c4b41816506cd4bc994f, type: 3}
+  m_GUITowerSprite: {fileID: 21300000, guid: 1ff55c4a74fcf9b429b49b787ead3395, type: 3}
+  color: {r: 1, g: 0.495283, b: 0.495283, a: 1}
+  m_TurretProperties: {fileID: 11400000, guid: e99b7c9bc18b3ce49a179ce609588561, type: 2}
+  m_RequiredUpgrade: {fileID: 11400000, guid: 4f2c75a3eb6e4a64ca1a1daced30be0c, type: 2}
+  m_RequiredUpgradeLevel: 1
+  m_UpgradeTo: []
