@@ -1,2 +1,2 @@
 # Tower-Defense-Prototype
-!(Assets/Screenshots/main_menu.png)
+![](Assets/Screenshots/main_menu.png)
